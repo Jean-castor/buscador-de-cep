@@ -1,20 +1,20 @@
-# Buscador de CEP
+# Buscador de CEP 🏠
 
 Este é um projeto de buscador de CEP que permite aos usuários encontrar o endereço completo a partir de um CEP informado.
 
-## Funcionalidades
+## Funcionalidades ✨
 
-- Busca de endereço completo a partir de um CEP.
-- Exibição de informações como estado e DDD.
-- Mensagens de alerta caso o CEP não seja encontrado ou esteja incompleto.
+- 🔍 Busca de endereço completo a partir de um CEP.
+- 🗺️ Exibição de informações como estado e DDD.
+- ⚠️ Mensagens de alerta caso o CEP não seja encontrado ou esteja incompleto.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠️
 
-- React
-- Axios
-- React Icons
+- ⚛️ React
+- 🌐 Axios
+- 🎨 React Icons
 
-## Instalação
+## Instalação 📦
 
 1. Clone o repositório:
    ```sh
