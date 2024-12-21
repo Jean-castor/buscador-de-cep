@@ -18,4 +18,4 @@ Este é um projeto de buscador de CEP que permite aos usuários encontrar o ende
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Jean-castor/buscador-cep.git
+   git clone https://github.com/Jean-castor/buscador-de-cep.git
